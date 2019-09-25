@@ -1,0 +1,286 @@
+
+    
+   body{
+   background-image: url(a.jpg)
+}
+
+
+
+
+h1 {
+    color: pink;
+      font-family: 'Modak', cursive;
+    
+       
+    letter-spacing: 30px;
+            font-size: 80px;
+            margin: 0px;
+            text-align: center;
+}
+
+
+
+
+.nav{
+    list-style:none;
+float:left;
+    overflow: auto;
+   
+    margin:0;
+    padding:0;
+
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    text-decoration: none;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 100px;
+    padding:10px;
+    list-style-type: none;
+    display: inline;
+
+}
+
+#vid{
+    float: right;
+    overflow: auto;
+}
+#find{
+        float: left;
+     overflow: auto;
+}
+
+@keyframes bounceIn {
+  0% {
+    transform: scale(0.1);
+    opacity: 0;
+  }
+  60% {
+    transform: scale(1.2);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.Events{
+  animation-duration: 5s;
+  animation-name: bounceIn;
+}
+
+.Events{
+    display: grid;
+      position: absolute;
+    top: 200px;
+    right: 100px;
+    color: yellow;
+font-size: 70px;
+    text-align: right;
+}
+.open{
+ display: grid;
+    text-align: left;
+    color: yellow;
+font-size: 70px;
+}
+
+.introTitle{
+    display: grid;
+    font-size: 50px;
+    color: yellow;
+    text-align: justify;
+}
+ 
+ #introText {font-size: 70px;
+    color: yellow;
+    text-align: justify;
+}
+
+
+ p1{
+    color: yellow;
+    font-family: courier;
+    font-size: 360%;
+}
+p2  {
+    color: yellow;
+    font-family: courier;
+    font-size: 360%;
+}
+p3  {
+    color: yellow;
+    font-family: courier;
+    font-size: 360%;
+}
+
+
+
+.img-so{
+    width=1000;
+    height=800;
+}
+
+p5  {
+    color: yellow;
+    font-family: sans-serif;
+    font-size: 160%;
+}
+
+p4 {
+    color: yellow;
+    font-family: sans-serif;
+    font-size: 160%;
+}
+
+p6 {
+    color: yellow;
+    font-family:sans-serif;
+    font-size: 160%;
+}
+
+}
+
+.h1find{
+        font-family: 'Mmdak',cursive;
+        color: rgba(255, 25, 155,1);
+    
+        font-size: 80px;
+    }
+    
+
+    .Email{
+           font-size: 20px;
+        color: yellow;
+    }
+    
+    .media{
+        color: yellow;
+    }
+    
+    .where{
+        color: yellow;
+        font-size: 20px;
+    }
+    
+    .address{
+        color: yellow;
+    }
+    
+    .maps{
+        color: yellow;
+        font-size: 20px;
+    }
+    
+    .information{
+        color: yellow;
+    }
+    
+    .more{
+        color: yellow;
+        font-size: 20px;
+    }
+    
+    .number{
+        color: yellow;
+    }
+
+
+
+.nav1{
+    display: inline-block;
+ list-style: none;
+    padding: 0px;
+    font-family: 'Mmdak',cursive;
+        color: rgba(255, 25, 155,1);
+        font-size: 80px;
+}
+h2{
+    color: yellow;
+        font-size: 80px;
+}
+
+.videowrapper{
+    position:relative;
+    left:900px;
+}
+.videowrapper1{
+    position: relative;
+    top: 200px;
+    left: 200px;
+}
+
+
+.videowrapper2{
+    position:relative;
+    left:500px;
+}
+.videowrapper3{
+    position: absolute;
+    top: 50px;
+    left: 200px;
+}
+
+
+
+
+
+/* nav bar background */
+.topnav {
+    background-color: black;
+    overflow: hidden;
+}
+
+/*  nav style */
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* link color hovering */
+.topnav a:hover {
+    background-color: red;
+    color: black;
+}
+
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#p1c{
+    text-align: justify;
+    font-size: 15px;
+}
+#p2c{
+text-align: inherit;
+    font-size: 15px;
+}   
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 1700
+}
+
+.video01 {
+     position: relative;
+     left: 00px
+}
+
+.video3 {
+    position: relative;
+    right: -000px
+}
+
